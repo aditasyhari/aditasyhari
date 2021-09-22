@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @aditasyhari
 
-<img style="width: 100%;" alt="My Github Profile" src="assets/gif_adit.gif"> </img>
+<center>
+  <img style="width: 70%;" alt="My Github Profile" src="assets/gif_adit.gif"> </img>
+</center>
