@@ -1,38 +1,18 @@
-# 👋 Hi, I’m @aditasyhari
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aditya+Roman+Asyhari;I+love+Linux+and+Open+Source;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</h1>
 
-<img style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;" alt="My Github Profile" src="assets/gif_adit3.gif"></img>
+<p align="center">
+  <em>"Talk is cheap. Show me the code."</em>
+</p>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class JuniorProgrammer:
-
-    def __init__(self):
-        self.name = "Aditya Roman Asyhari"
-        self.role = "Junior Programmer"
-        self.last_education = "Informatics Engineering at Banyuwangi State Polytechnic"
-
-    def say_hi(self):
-        print("Thank you for visiting, I hope my work is interesting for you.")
-
-
-me = JuniorProgrammer()
-me.say_hi()
-```
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-roman-asyhari-5b5a411b7/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:adit.asyhari16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
